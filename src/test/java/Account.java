@@ -1,17 +1,10 @@
 
 public class Account {
-
-
-
-
-
 			private long balance;
 			private String Accno;
 			
 			Account(int amt){
 				balance=amt;
-				
-				
 				
 			}
 			
