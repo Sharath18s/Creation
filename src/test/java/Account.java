@@ -5,8 +5,7 @@ public class Account {
 			
 			Account(int amt){
 				balance=amt;
-				
-			}
+				}
 			
 			public void withdraw(int amt) {
 				String msg="";
